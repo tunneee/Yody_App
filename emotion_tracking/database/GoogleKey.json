@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yody-app",
+  "private_key_id": "688ab9748d4ad00b2fdc73a14e2362142c475a83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEq6m/tcDFnhoo\nusBiJBsJAfv5+v4fwi0YaPVVMJbpTFEO9M1fOLM3j2Dd8tc6f6lV0nR0J1Pexc+H\nI+ZJ46y5R6XoGozrK/mWSgrkHfbePtdeDKGGlpgOHtHUSypCtbnRL7fkJmXjOSfk\ndYnyDzyzNN2itc3hGJoYheTknsBhW4l7Dq8Q+MEck434kYbraFXImigTcBOFbbrZ\nF0K876bmYfzHCIWRw+7MncxvcMzLXYPnaXD6+xAmFYB7JnFSTpjygzK7cZ2CYKyn\ndtewdJhBWgUGkzB8rdxSam7QPzsqir7Tmy50Hv41IfP44aKaaZzY9OPbUBhDuC3Y\nB60faAbJAgMBAAECggEADgFwE58ayO/5Cq6++dY6pyXxJvSbAZG7UqZR11TgIGHf\nEWa5U+dGqwWexzuOnIPAIESeJrHwyPfzDxuNQDSSpbiundR7NdmyOuPPuf5QyPO2\ndGQHoj0p+7Jx7LGEI09L+fPRH5Ik9h0pRD2jGt3/K39vq7FRBa9R9P5fBjFwf5ZM\nYYT4sew8mndv1vcXD9h1FvEGuBveqj5NtArsOodQwoyDNffFtOwQlJgZc7Lt3taT\nVqLFUVVqtv5ThQZF1CK7JYQWjvnR7hNPjuGNDQ177cI4So3Jr305HI3nL6EGQ4ux\nCkrC64ZiW2wyWhZmLbxeGLUpoftcEm3ttGd1hVTvAQKBgQDkxQ5NBJCudKmXVdqM\nb10yos8WwwB0jq8F/qoicnXb2m7hAi1mvbb90guroORAIspHQlHDcpKKxAUMd1CE\nqD61euYEhdM1R89po2p9xI23QXvQSfRqM5DnMC0APc8onUjhqUMt/QDEJHg9tiSD\nsmwy4RqYeO6e7Q43Uowhw6zPyQKBgQDcFH+kGkYoyolxGrh1PUyEbQhOwuZfqmLc\nMLxGq1PsOciuG5BTzC9cVCQGQYSZV44iAnb6fbFFucUdE4ccTRzMKYpLMDAxzs/J\nE6JFjVXknP1TJNkRn300AY3rqOGUkTIBzqm/KYxAj9j1YucDS28AJCwkXPGpnqEf\n3kWRR7L/AQKBgQDAD8RS2stQ+7bJzBVgo7pd4Zv1Ix/Fu2irosNZijjyrC88juRp\nBkuUSvzrSXd3dP3X15DngtAO2kTW03Dw/oMvP4/PKj9I0xIKQV0NW7ASs1Jsazpc\n0xALWEHfmwTJt0rR0ZYKDQfQpEGipcGAI5J9IMmASr8jBChUP+RQEISMKQKBgCjf\nGbFVO9BZhNrfdoA3aR1yzkcqRPRhRUjVODH7oXNOa+mBrvURB36jFamfw0tjCj9g\nq83rR9/GF0hGFyJ3Y7C6yjcadOjbGpWiMtGt5NS3Hwiw4Cs4rlzZKQ0p6PLZYCsb\nwUSCJ8zZqhYwTuy6tpuVHCmIpUy17ABqHAtWAHUBAoGBAM0OJWh+7vYfLEmrymcN\nteYi1WvElN7/lsf/8mngrkC9Dw/7LBeCjLkOAlxA4UrsXt2K6lhcImw3wvfBNExZ\n09ZatDD2a23BqVhxus1iHouyYaGM8xeGYbs6636N+2CYCVZ7i9kyveCsmgPLNNvV\n7mP8u9rXXVMXG56+IaIdQwX1\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing@yody-app.iam.gserviceaccount.com",
+  "client_id": "113317341881496445380",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing%40yody-app.iam.gserviceaccount.com"
+}

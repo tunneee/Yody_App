@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879754772950",
+    "firebase_url": "https://yody-30c23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yody-30c23",
+    "storage_bucket": "yody-30c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879754772950:android:0442b21d61882e3bf3a477",
+        "android_client_info": {
+          "package_name": "com.example.yody_clothes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879754772950-uglbfm36lrajingoh5cordjr859n75nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhuFdQLhSkxP00JYScWlydTsXpS4-2vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879754772950-uglbfm36lrajingoh5cordjr859n75nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
